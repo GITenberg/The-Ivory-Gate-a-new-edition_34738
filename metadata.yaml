@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5404
     wikipedia: http://en.wikipedia.org/wiki/Walter_Besant
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34738#The-Ivory-Gate-a-new-edition
 gutenberg_issued: '2010-12-23'
 gutenberg_type: Text
 identifiers:
